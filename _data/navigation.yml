@@ -1,0 +1,41 @@
+# main links links
+main:
+  - title: "Geting Started"
+    url: /getting-started/
+
+  - title: "Explorer"
+    url: http://flakechain.cf/
+
+  - title: "Exchange"
+    url: http://atomics.trade
+
+  - title: "Pool"
+    url: http://snowflake.cf/
+
+
+# documentation links
+docs:
+  - title: Resources
+    children:
+      - title: "Getting Started"
+        url: /getting-started/
+
+  - title: Community
+    children:
+      - title: "Roadmap"
+        url: /roadmap/
+      - title: "Donate"
+        url: /donate/
+
+  - title: Meta
+    children:
+      - title: "Github"
+        url: https://github.com/flakechain
+      - title: "Discord"
+        url: https://flakechain.github.io/discord/
+      - title: "Twitter"
+        url: https://twitter.com/flakechain
+      - title: "Telegram"
+        url: https://t.me/flakechain
+      - title: "Bitcoin Talk"
+        url: https://bitcointalk.org/index.php?topic=3249137
