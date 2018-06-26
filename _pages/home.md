@@ -33,7 +33,7 @@ feature_row:
     url: "/donate/"
     btn_label: "Support Us"
 monthly-update:
-  - excerpt: "Monthly Flake Update - Jun 2018 [Read Now](/2018/06/24/monthly-update-jun-2018/){: .btn}"
+  - excerpt: "Monthly Flake Update - Jun 2018 [Read Now](/2018/06/06/welcome/){: .btn}"
 ---
 
 {% capture social_media %}
