@@ -35,22 +35,6 @@ feature_row:
 monthly-update:
   - excerpt: "Monthly Flake Update - Jun 2018 [Read Now](/2018/06/06/welcome/){: .btn}"
 ---
-
-{% capture social_media %}
-    <div class="social-intro" style="vertical-align: top;">FlakeChain Community</div>
-  <div>
-    <div class="social-links">
-      <a href="https://github.com/flakechain"><i class="fab fa-github"></i></a>
-      <a href="https://twitter.com/flakechain"><i class="fab fa-twitter"></i></a>
-      <a href="https://flakechain.github.io/discrod/"><i class="fab fa-discord"></i></a>
-      <a href="https://t.me/flakechain"><i class="fab fa-telegram"></i></a>
-      <a href="https://bitcointalk.org/index.php?topic=3249137"><i class="fab fa-bitcoin"></i></a>
-    </div>
-  </div>
-{% endcapture %}
-
-{% include feature_row excerpt=social_media type="center" %}
-
-{% include feature_row %}
-
-{% include feature_row id="monthly-update" type="center" %}
+<script>
+    window.location.replace("https://flake.space")
+</script>
